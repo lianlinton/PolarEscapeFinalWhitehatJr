@@ -1,0 +1,85 @@
+header {
+    padding: 30px;
+    background-color: purple;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: purple;
+}
+
+h4 {
+    color: purple;
+}
+
+p {
+    color: purple;
+}
+
+.headerp {
+    color: white;
+}
+
+body {
+    background-color: white;
+    font-family: cursive;
+    margin: 0;
+}
+.link {
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 350px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: purple;
+    color: white;
+}
+
+.link a {
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.link:hover {
+    box-shadow: -3px 3px 20px #222;
+}
+
+iframe {
+    display: block;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.link2 {
+    margin-top: 30px;
+    margin-left: 20px;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: purple;
+    color: white;
+}
+
+.instructions {
+    margin-right: 200px;
+    margin-left: 50px;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
